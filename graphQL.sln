@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "App\App.csproj", "{13732484-3946-4036-AD9B-8585FADA151A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL.Web", "GraphQL.Web\GraphQL.Web.csproj", "{02591D91-12E2-443A-895E-974D38757860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13732484-3946-4036-AD9B-8585FADA151A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Debug|x64.Build.0 = Debug|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Debug|x86.Build.0 = Debug|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Release|x64.ActiveCfg = Release|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Release|x64.Build.0 = Release|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Release|x86.ActiveCfg = Release|Any CPU
+		{13732484-3946-4036-AD9B-8585FADA151A}.Release|x86.Build.0 = Release|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Debug|x64.Build.0 = Debug|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Debug|x86.Build.0 = Debug|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Release|x64.ActiveCfg = Release|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Release|x64.Build.0 = Release|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Release|x86.ActiveCfg = Release|Any CPU
+		{02591D91-12E2-443A-895E-974D38757860}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D0F0B8-02D3-4C3A-9DCE-9498B3A9C97F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/orthosadmin
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = App\\App.csproj
+		SccProjectName1 = App
+		SccLocalPath1 = App
+		SccProjectUniqueName2 = GraphQL.Web\\GraphQL.Web.csproj
+		SccProjectName2 = GraphQL.Web
+		SccLocalPath2 = GraphQL.Web
+	EndGlobalSection
+EndGlobal
